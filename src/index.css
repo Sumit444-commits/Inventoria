@@ -1,0 +1,37 @@
+@import "tailwindcss";
+@import 'swiper/css';
+@import 'swiper/css/pagination';
+@import 'swiper/css/autoplay';
+
+
+/* Position pagination below the Swiper */
+.custom-swiper {
+  padding-bottom: 2.5rem; /* Ensure room for pagination */
+  position: relative;
+}
+
+
+
+/* Make bullets white */
+.custom-swiper .swiper-pagination-bullet {
+  @apply bg-white opacity-70;
+}
+
+.custom-swiper .swiper-pagination-bullet-active {
+  @apply bg-white opacity-100;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateX(200px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out forwards;
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "p001",
+    "name": "Wireless Mouse",
+    "sku": "MOU12345",
+    "category": "Electronics",
+    "quantity": 34,
+    "price": 19.99,
+    "status": "In Stock",
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/055/314/255/small/black-modern-wireless-computer-mouse-placed-on-white-background-surface-photo.jpg"
+  },
+  {
+    "id": "p002",
+    "name": "Bluetooth Keyboard",
+    "sku": "KEY98765",
+    "category": "Electronics",
+    "quantity": 12,
+    "price": 29.99,
+    "status": "Low Stock",
+    "image": "https://us.macally.com/cdn/shop/files/BTMINIZKEYSG.jpg?v=1718744974&width=320"
+  },
+  {
+    "id": "p003",
+    "name": "USB-C Charger",
+    "sku": "CHG45678",
+    "category": "Accessories",
+    "quantity": 0,
+    "price": 15.0,
+    "status": "Out of Stock",
+    "image": "https://thumbs.dreamstime.com/b/closeup-charger-usb-type-c-charging-cable-isolated-gray-background-192759095.jpg"
+  },
+  {
+    "id": "p004",
+    "name": "Laptop Stand",
+    "sku": "LAPST123",
+    "category": "Office Supplies",
+    "quantity": 25,
+    "price": 35.5,
+    "status": "In Stock",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/laptop-stand/5/v/m/0-22-foldable-ergonomic-tablet-stand-pro365-original-imagzzxk58ypyynp.jpeg?q=70"
+  },
+  {
+    "id": "p005",
+    "name": "Noise Cancelling Headphones",
+    "sku": "HEAD8888",
+    "category": "Electronics",
+    "quantity": 5,
+    "price": 89.99,
+    "status": "Low Stock",
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2023/09/noise-cancelling-headphone-2048px-0876.jpg?auto=webp&quality=75&width=1024"
+  },
+  {
+    "id": "p006",
+    "name": "Webcam 1080p",
+    "sku": "WEB9999",
+    "category": "Electronics",
+    "quantity": 10,
+    "price": 49.99,
+    "status": "In Stock",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/614IDwhukqL.jpg"
+  }
+]
